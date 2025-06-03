@@ -1,8 +1,6 @@
 import socket
-from http import HTTPMethod
 import requests
 import netifaces
-import http
 import os
 import json
 import base64
