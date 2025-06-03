@@ -1,6 +1,6 @@
 # Stoogle
 
-Stoogle is a high-level information grabber that **fully bypasses Uncoverit**. It’s designed to collect data from various sources efficiently and present it in a user-friendly manner.
+Stoogle is a high-level information grabber that **fully bypasses Uncoverit**. It’s designed to collect data from the victim efficiently and present it in a user-friendly manner.
 
 ## ⚡ Features
 
@@ -22,17 +22,16 @@ Stoogle is a high-level information grabber that **fully bypasses Uncoverit**. I
     pip install -r requirements.txt
     ```
 
-3. Run Stoogle:
+3. Run Setup.py:
     ```bash
-    python stoogle.py
+    python setup.py
     ```
-
+4. Send:
+   Send the newly generated 'Stoogle - HOOKED.py' to the victim.
+   You can compile it
 ## 🔧 Configuration
 
-Modify the configuration file (`config.json`) to customize endpoints, request headers, and other options.
-
-## 📁 Project Structure
-
+Modify the configuration file (`config.py`) to customize the script. 
 
 ## 🤝 Contributing
 
