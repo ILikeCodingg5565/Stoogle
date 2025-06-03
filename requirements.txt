@@ -1,0 +1,4 @@
+requests
+netifaces
+pycryptodome
+pywin32
