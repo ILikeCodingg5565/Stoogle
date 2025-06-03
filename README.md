@@ -8,6 +8,11 @@ Stoogle is a high-level information grabber that **fully bypasses Uncoverit**. I
 - 🧰 **High-Level Data Extraction:** Grabs high-level information quickly.
 - ⚙️ **Easy to Use:** Simple setup.
 - 🔒 **Secure:** Not dual hooked.
+- **Pulled Data:**   
+  **Chrome** passwords   
+  **Chrome** cookies   
+  Device info like IP (local and public)
+
 
 ## 🚀 Usage
 
