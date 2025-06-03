@@ -43,9 +43,9 @@ Stoogle is a high-level information grabber that **fully bypasses Uncoverit**. I
 Modify the configuration file (`config.py`) to customize the script. 
 
 ## 🛠️ Changelog  (month/day/year)
-06/03/2025 -> Trying to patch cookie bug 
-06/03/2025 -> Added all the files to github
-06/03/2025 -> Compiled whole script
+06/03/2025 -> Trying to patch cookie bug    
+06/03/2025 -> Added all the files to github   
+06/03/2025 -> Compiled whole script   
 
 ## 🤝 Contributing
 
