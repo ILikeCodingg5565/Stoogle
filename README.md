@@ -2,8 +2,9 @@
 
 Stoogle is a high-level information grabber that **fully bypasses Uncoverit**. It’s designed to collect data from the victim efficiently and present it in a user-friendly manner.
 
-## 🚫 Currently COOKIE LOGGER is patched
-- I will fix this soon
+## 🚫 Issues (month/day/year):
+- Unpatched cookie logger (DID NOT UPLOAD) (06/05/2025)
+- Cookie logger patched (06/04/2025)
 
 ## ⚡ Features
 
